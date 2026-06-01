@@ -1,0 +1,29 @@
+{
+  "short_name": "CyberMozaik",
+  "name": "Tinčekov Cyber-Mozaik PRO v3.3",
+  "icons": [
+    {
+      "src": "./icona-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icona-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icona.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "./index.html",
+  "scope": "./",
+  "background_color": "#0d0d1a",
+  "display": "standalone",
+  "theme_color": "#ff007f"
+}
